@@ -12,11 +12,11 @@ I enjoy turning raw technical evidence into clear security findings. I am curren
 
 ## Featured projects
 
-### [Splunk SIEM Lab](https://github.com/aliloubenyahia19-del/splunk-siem-lab)
+### [Splunk SIEM Lab](https://github.com/sid-ali-benyahia/splunk-siem-lab)
 
 Built a multi-source SIEM lab using Android, Windows, Apache, Linux SSH, and fraud datasets. Created five dashboards and used SPL commands including `stats`, `timechart`, `rex`, `eval`, `iplocation`, and `geostats` to investigate suspicious activity, correlate events, and support risk-based triage.
 
-### [Trojan Malware Analysis](https://github.com/aliloubenyahia19-del/trojan-malware-analysis)
+### [Trojan Malware Analysis](https://github.com/sid-ali-benyahia/trojan-malware-analysis)
 
 Performed static and dynamic analysis of njRAT, AsyncRAT, QuasarRAT, and Remcos in an isolated Windows and Ubuntu lab. Examined indicators of compromise, persistence, processes, network behaviour, and defensive findings using tools such as Ghidra, Wireshark, Process Monitor, Process Explorer, and Exeinfo PE.
 
@@ -39,4 +39,3 @@ Performed static and dynamic analysis of njRAT, AsyncRAT, QuasarRAT, and Remcos 
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/sid-ali-benyahia-cyber)
-
